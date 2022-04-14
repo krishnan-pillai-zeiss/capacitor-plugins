@@ -1,7 +1,8 @@
 {
   "name": "mrriver-capacitor-plugins",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
+
   "scripts": {
     "build": "lerna run build",
     "watch": "lerna run --parallel --stream watch",
